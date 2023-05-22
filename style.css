@@ -1,0 +1,20 @@
+body{
+    background-color: aquamarine;
+    text-align: center;
+    border-style:double;
+    
+}
+.classA{
+    height:50px;
+    margin:20px 10px 30px 50px;
+    background-color: red;
+}
+li{
+    list-style-type: none;
+}
+#heading{
+    border-style: double;
+    border-color: black;
+    background-color: antiquewhite;
+}
+
